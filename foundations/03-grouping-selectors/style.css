@@ -1,0 +1,14 @@
+.firsto,
+.secondo {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.firsto {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.secondo {
+    background-color: yellow;
+}
