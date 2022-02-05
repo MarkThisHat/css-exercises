@@ -7,21 +7,33 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 8px;/*1st mod*/
 }
 
 .title {
   background: #e3f4ff;
+  margin-top: 0;/*2nd mod*/
+  margin-bottom: 8px;/*2nd mod B*/
+  font-size: 16px;/*3rd mod*/
+  padding: 8px;/*4th mod*/
 }
 
 .content {
   background: #e3f4ff;
+  padding: 16px 8px;/*5th mod*/
+  margin-bottom: 8px; /*5h mod B*/
 }
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;/*6th mod*/
+  padding: 8px;/*6th mod B*/
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;/*7th mod*/
+  margin: 0 auto;/*7th mod B*/
+  padding: 8px 24px;/*8th mod*/
 }
